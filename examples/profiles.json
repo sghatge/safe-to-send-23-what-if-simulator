@@ -1,0 +1,20 @@
+[
+  {"name": "Careful practitioner", "flags": [],
+   "answers": {"awareness": [{"value": 4}, {"value": 4}], "attitude": [{"value": 4}, {"value": 3}],
+               "skills": [{"value": 3}, {"value": 4}], "prompting": [{"value": 4}, {"value": 4}],
+               "role_fit": [{"value": 4}, {"value": 3}], "privacy": [{"value": 5}, {"value": 5}],
+               "support": [{"value": 3}, {"value": 3}], "confidence": [{"value": 4}, {"value": 2, "reverse": true}],
+               "applying": [{"value": 3}, {"value": 4}], "learning": [{"value": 4}, {"value": 3}]}},
+  {"name": "Fast mover, loose guardrails", "flags": ["data_handling_risk"],
+   "answers": {"awareness": [{"value": 5}, {"value": 5}], "attitude": [{"value": 5}, {"value": 5}],
+               "skills": [{"value": 5}, {"value": 4}], "prompting": [{"value": 4}, {"value": 5}],
+               "role_fit": [{"value": 5}, {"value": 4}], "privacy": [{"value": 2}, {"value": 2}],
+               "support": [{"value": 4}, {"value": 4}], "confidence": [{"value": 5}, {"value": 4, "reverse": true}],
+               "applying": [{"value": 5}, {"value": 5}], "learning": [{"value": 5}, {"value": 4}]}},
+  {"name": "Blocked enthusiast", "flags": ["no_approved_tool"],
+   "answers": {"awareness": [{"value": 4}, {"value": 4}], "attitude": [{"value": 5}, {"value": 5}],
+               "skills": [{"value": 2}, {"value": 2}], "prompting": [{"value": 2}, {"value": 3}],
+               "role_fit": [{"value": 4}, {"value": 4}], "privacy": [{"value": 4}, {"value": 4}],
+               "support": [{"value": 1}, {"value": 2}], "confidence": [{"value": 3}, {"value": 2, "reverse": true}],
+               "applying": [{"value": 2}, {"value": 1}], "learning": [{"value": 4}, {"value": 4}]}}
+]
